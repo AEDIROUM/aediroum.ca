@@ -16,6 +16,7 @@ sitemap:
 * [Wiki de l'AEDIROUM](https://wiki.aediroum.ca/index.php?title=Accueil)
 * [Planificateur Académique](https://www-ens.iro.umontreal.ca/~miloszro/conseiller_pedagogique/planner/117510.html)
 * Plans du pavillon André-Aisenstadt: [1ᵉʳ étage](https://www.iro.umontreal.ca/~robitail/1e-etage.html), [2ᵉ étage](https://www.iro.umontreal.ca/~robitail/2e-etage.html), [3ᵉ étage](https://www.iro.umontreal.ca/~robitail/3e-etage.html)
+* [Guide du premier cycle](https://www-labs.iro.umontreal.ca/~boyer/etudes/guide1cy_fldr/)
 
 #### Clubs de l'UdeM
 
@@ -30,6 +31,11 @@ L'horaire des clubs se trouve devant le local 3192 au Pavillon André-Aisenstadt
 
 <!--* [DIRO Bash](//dirobash.tolarian.com)-->
 <!--* [Site web de stages](//stages.dgtic.umontreal.ca/etudiants) -->
+
+#### Examens
+
+* [Protocole de vérification et de révision de l'évaluation d'un examen ou d'un travail au 1er cycle](https://safire.umontreal.ca/public/FAS/safire/Documents/3-Ressources-services/Ressources-formulaires/Protocole_revision_notes_04-2024.pdf) 
+  * [formulaire associé](https://forms.office.com/pages/responsepage.aspx?id=7O9-0kcq50uYHg-Jd_ox2CdKkxc0YEhFqbySMGVP_31UMFdWWU4wSkRSTU1LTVNLMjVZV1FISVlSTi4u)
 
 #### Réseaux sociaux
 
