@@ -24,7 +24,7 @@ L'horaire des clubs se trouve devant le local 3192 au Pavillon André-Aisenstadt
 
 * [Club de Sécurité Informatique (RHUM)](//discord.gg/Tdunyeg)
 * [Club FinTech](//fb.com/groups/143067566363926)
-* [Club de Programmation Compétitive (Calculum)](https://calculum.ca/)
+* [Club de Programmation Compétitive (Calculum)](https://calculum.aediroum.ca/)
 * [Club de Robotique (Dirobots)](https://dirobots.github.io/)
 * Club de Recherche Opérationnelle (Crodirodiroum)
 * [Club de Machine Learning (UdeM AI)](https://udemai.github.io/)
