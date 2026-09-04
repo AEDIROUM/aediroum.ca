@@ -30,11 +30,17 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.104.3
+      TYPST_VERSION: 0.15.1
     steps:
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Install Typst CLI
+        run: |
+          wget -O ${{ runner.temp }}/typst.tar.xz https://github.com/typst/typst/releases/download/v${TYPST_VERSION}/typst-x86_64-unknown-linux-musl.tar.xz \
+          && tar -xvf ${{ runner.temp }}/typst.tar.xz typst-x86_64-unknown-linux-musl/typst -O > /usr/local/bin/typst \
+          && chmod a+x /usr/local/bin/typst
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -42,18 +48,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Setup TeX Live
-        uses: teatimeguest/setup-texlive-action@v3
-        with:
-          packages: >-
-            collection-basic
-            collection-binextra
-            collection-langfrench
-            collection-latex
-            collection-latexextra
-            collection-luatex
-            collection-plaingeneric
-            collection-xetex
       - name: Build website
         env:
           # For maximum backward compatibility with Hugo modules

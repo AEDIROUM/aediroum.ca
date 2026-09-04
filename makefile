@@ -2,16 +2,9 @@ serve:
 	hugo serve
 
 build:
-	make -C politiques html pdf
-	cp -R \
-		politiques/build/charte \
-		politiques/build/charte.pdf \
-		politiques/build/coussin \
-		politiques/build/coussin.pdf \
-		politiques/build/faecum \
-		politiques/build/faecum.pdf \
-		politiques/build/positions \
-		politiques/build/positions.pdf \
-		politiques/build/codedevie \
-		politiques/build/codedevie.pdf \
-		static/documents
+	make -C politiques
+	for document in charte coussin faecum positions codedevie; do \
+		mkdir -p "static/documents/$$document" ; \
+		cp "politiques/build/$$document.html" "static/documents/$$document/index.html" ; \
+		cp "politiques/build/$$document.pdf" "static/documents/$$document.pdf" ; \
+	done
