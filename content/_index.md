@@ -18,6 +18,7 @@ L'*Association des étudiants du département d'informatique et de recherche op�
 
 Elle représente les étudiants des programmes suivants au [Département d'Informatique et de Recherche Opérationnelle](//diro.umontreal.ca) de l'[Université de Montréal](//umontreal.ca) :
 
+* [Mineure en informatique](//diro.umontreal.ca/programmes-cours/premier-cycle/mineure-en-informatique)
 * [Majeure en informatique](//diro.umontreal.ca/programmes-cours/premier-cycle/majeure-en-informatique)
 * [Baccalauréat en informatique](//diro.umontreal.ca/programmes-cours/premier-cycle/baccalaureat-en-informatique)
 * [Baccalauréat en mathématique et informatique](//diro.umontreal.ca/programmes-cours/premier-cycle/baccalaureat-en-mathematique-et-informatique)
