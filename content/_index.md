@@ -16,12 +16,12 @@ L'*Association étudiante du département d'informatique et de recherche opérat
 * L'*Association des étudiants en informatique et recherche opérationnelle de l'Université de Montréal* (**AÉIROUM**), qui représentait le premier cycle.
 * L'*Association des étudiants et étudiantes aux études supérieures du Département d'informatique et de recherche opérationnelle* (**AEEESDIRO**), qui représentait les cycles supérieurs.
 
-Elle représente les étudiants des programmes suivants au [Département d'Informatique et de Recherche Opérationnelle](//diro.umontreal.ca) de l'[Université de Montréal](//umontreal.ca) :
+Elle représente les personnes étudiantes des programmes suivants au [Département d'Informatique et de Recherche Opérationnelle](//diro.umontreal.ca) de l'[Université de Montréal](//umontreal.ca) :
 
 * [Mineure en informatique](//diro.umontreal.ca/programmes-cours/premier-cycle/mineure-en-informatique)
 * [Majeure en informatique](//diro.umontreal.ca/programmes-cours/premier-cycle/majeure-en-informatique)
 * [Baccalauréat en informatique](//diro.umontreal.ca/programmes-cours/premier-cycle/baccalaureat-en-informatique)
-* [Baccalauréat en mathématique et informatique](//diro.umontreal.ca/programmes-cours/premier-cycle/baccalaureat-en-mathematique-et-informatique)
+* [Baccalauréat en mathématique et informatique](//diro.umontreal.ca/programmes-cours/premier-cycle/baccalaureat-en-mathematiques-et-informatique)
 * [Maîtrise en informatique](//diro.umontreal.ca/programmes-cours/cycles-superieurs/maitrise-en-informatique)
 * [Doctorat en informatique](//diro.umontreal.ca/programmes-cours/cycles-superieurs/doctorat-en-informatique)
 
