@@ -3,107 +3,107 @@ annee: 2026-2027
 conseil:
   - Présidence:
       - nom: Cassandre Hamel
-        id: "@quesoqueso"
+        id:
         courriel: cassandre.hamel.1@umontreal.ca
   - Vice-présidence aux communications:
       - nom: Simon Mounier
-        id: "@jeunesim"
+        id:
         courriel: simon.mounier@umontreal.ca
   - Adjoint(e) à la vice-présidence aux communications:
       - nom: Nathan Coquerel
-        id: "@wyrdix"
+        id:
         courriel: nathan.coquerel@umontreal.ca
   - Vice-présidence externe:
       - nom: Cal Gutierrez
-        id: "@calixton"
-        courriel: cal.gutierrez@umontreal.cak
+        id:
+        courriel: cal.gutierrez@umontreal.ca
   - Adjoint(e) à la vice-présidence externe:
       - nom: Carlos Vanegas
-        id: "@3n3333"
+        id:
         courriel: carlos-ariel.vanegas@umontreal.ca
   - Secrétariat:
       - nom: Théodore Le Roy
-        id: "@overengined"
+        id:
         courriel: theodore.le.roy@umontreal.ca
   - Trésorerie:
       - nom: Florencia Jhon Locht
-        id: "@fliptheflop127"
+        id:
         courriel: florencia.jhon.locht@umontreal.ca
   - Adjoint(e) au secrétariat:
       - nom: Yohan Thibault
-        id: "@tnty100"
+        id:
         courriel: yohan.thibault@umontreal.ca
   - Coordination aux affaires académiques de premier cycle:
       - nom: Élie Leblanc
-        id: "@therk"
+        id:
         courriel: elie.leblanc@umontreal.ca
   - Coordination aux affaires académiques de cycles supérieurs:
       - nom: Thomas Lacasse
-        id: "@orange389"
+        id:
         courriel: thomas.lacasse@umontreal.ca
   - Adjoint(e) à la coordination aux affaires académiques:
       - nom: Jean Brdkji
-        id: "@frenchnoodles"
+        id:
         courriel: jean.brdkji@umontreal.ca
   - Responsable des relations avec Mila:
       - nom: Yanis Chikhar
-        id: "@chikhar"
+        id:
         courriel: yanis.chikhar@umontreal.ca
   - Responsable des relations avec les programmes de mathématiques:
       - nom: Élie Leblanc
-        id: "@therk"
+        id:
         courriel: elie.leblanc@umontreal.ca
   - Représentation des femmes en informatique:
       - nom: Alessandra Mancas
-        id: "@aless7287"
+        id:
         courriel: alessandra.thais.mancas@umontreal.ca
   - Représentation des personnes étudiantes salariées:
       - nom: Antony Leclerc
-        id: "@monkaie"
+        id:
         courriel: antony.leclerc@umontreal.ca
   - Représentation des personnes étudiantes internationales:
       - nom: Pablo Hidalgo
-        id: "@chiviguagua"
+        id:
         courriel: pablo.hidalgo.etienne@umontreal.ca
   - Coordination à la vie étudiante:
       - nom: Pierre Duhoux
-        id: "@pierre.dhx"
+        id:
         courriel: pierre.duhoux@umontreal.ca
   - adjoint(e) à la coordination à la vie étudiante:
       - nom: Achille Pellier
-        id: "@jean_achille"
+        id:
         courriel: achille.pellier@umontreal.ca
       - nom: Gabriel Desa
-        id: "@gabithou"
+        id:
         courriel: gabriel.desa@umontreal.ca
       - nom: Mohammed Anes Keddar
-        id: "@kueko."
+        id:
         courriel: mohammed.anes.keddar@umontreal.ca
   - Représentation du café Tore et Fraction:
       - nom: Étienne Poliquin Daher
-        id: "@plantcollector"
+        id:
         courriel: etienne.poliquin.daher@umontreal.ca
       - nom: Athan Aubin
-        id: "@applemacos"
+        id:
         courriel: athan.aubin@umontreal.ca
       - nom: Pablo Hidalgo
-        id: "@chiviguagua"
+        id:
         courriel: pablo.hidalgo.etienne@umontreal.ca
   - Responsable des locaux:
       - nom: Devito Keane Stevanus
-        id: "@burnedkar"
+        id:
         courriel: devito.keane.stevanus@umontreal.ca
   - Responsable des compétitions:
       - nom: Maxime Mitchelson
-        id: "@max.min"
+        id:
         courriel: maxime.mitchelson@umontreal.ca
   - Responsable des sports:
       - nom: Thomas Ring
-        id: "@papi_speedrun"
+        id:
         courriel: thomas.ring@umontreal.ca
   - Responsable des jeux:
       - nom: Pablo Hidalgo
-        id: "@chiviguagua"
+        id:
         courriel: pablo.hidalgo.etienne@umontreal.ca
   - Responsable de la marchandise:
       - nom:
@@ -111,7 +111,7 @@ conseil:
         courriel:
   - Responsable des activités pour les cycles supérieurs:
       - nom: Félix Beaudoin
-        id: "@avunz"
+        id:
         courriel: felix.beaudoin.1@umontreal.ca
   - Responsable des activités pour les personnes finissantes:
       - nom:
