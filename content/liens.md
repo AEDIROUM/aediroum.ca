@@ -22,15 +22,15 @@ sitemap:
 
 L'horaire des clubs se trouve devant le local 3192 au Pavillon André-Aisenstadt
 
-* [CALCULUM](https://calculum.aediroum.ca/) : Algorithmique et programmation compétitive
-* CITUM : Informatique théorique
-* DIROBOTS : Robotique
-* GRAAL : Architecture, matériel, logique
-* GULLUM : Logiciels libres
-* [RADAR](https://radar.aediroum.ca/) : Radioamateur, astronautique et radio astronomie
-* [RFIUM](https://linktr.ee/rfium) : Femmes en informatique
-* RHUM : Sécurité Informatique
-* [UdeM AI](https://udemai.github.io/) : Intelligence artificielle
+* **[CALCULUM](https://calculum.aediroum.ca/)** : Algorithmique et programmation compétitive
+* **CITUM** : Informatique théorique
+* **DIROBOTS** : Robotique
+* **GRAAL** : Architecture, matériel et logique
+* **GULLUM** : Logiciels libres
+* **[RADAR](https://radar.aediroum.ca/)** : Radioamateur, astronautique et radio astronomie
+* **[RFIUM](https://linktr.ee/rfium)** : Femmes en informatique
+* **RHUM** : Sécurité informatique
+* **[UdeM AI](https://udemai.github.io/)** : Intelligence artificielle
 
 <!--* [DIRO Bash](//dirobash.tolarian.com)-->
 <!--* [Site web de stages](//stages.dgtic.umontreal.ca/etudiants) -->
