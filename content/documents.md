@@ -14,9 +14,6 @@ sitemap:
 [Guide du premier cycle](//www.iro.umontreal.ca/~resp1cyc/guide1cy_fldr/)
 : Le guide de premier cycle donne un aperçu de l'orientation générale pour le premier cycle. Il donne aussi une liste de cours qui devraient être pris à chacune des sessions.
 
-[Manuel des séminaires UNIX](//www-etud.iro.umontreal.ca/~semunix/documentIRO/semunix-manuel.pdf)
-: Manuel écrit par des étudiants du DIRO regroupant des informations sur plusieurs principes de fonctionnement de Linux allant des concepts de base, passant par l'utilisation de base, et allant jusqu'à certains concepts un peu plus avancés comme l'installation de GNU/Linux à la maison.
-
 [Guide sur LaTeX](https://github.com/abdelq/latex-guide/releases/latest)
 : Guide écrit par des étudiants du DIRO qui couvre la base de LaTeX.
 
