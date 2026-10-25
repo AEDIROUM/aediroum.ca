@@ -29,6 +29,4 @@ Elle représente les personnes étudiantes des programmes suivants au [Départem
 
 <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" version="1.1" class="icon" height="16"><path d="M32 18.451l-16-12.42-16 12.42v-5.064l16-12.42 16 12.42zM28 18v12h-8v-8h-8v8h-8v-12l12-9z"></path></svg> **Local:** 3190 [Pav. André-Aisenstadt](https://goo.gl/maps/YWSDwqFxJw72)
 
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" version="1.1" class="icon" height="16"><path d="M22 20c-2 2-2 4-4 4s-4-2-6-4-4-4-4-6 2-2 4-4-4-8-6-8-6 6-6 6c0 4 4.109 12.109 8 16s12 8 16 8c0 0 6-4 6-6s-6-8-8-6z"></path></svg> **Téléphone:** 514 343-6111 poste 1855
-
 <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" version="1.1" class="icon" height="16"><path d="M15.996 15.457l16.004-7.539v-3.918h-32v3.906zM16.004 19.879l-16.004-7.559v15.68h32v-15.656z"></path></svg> **Courriel:** [aediroum@iro.umontreal.ca](mailto:aediroum@iro.umontreal.ca)

@@ -16,18 +16,21 @@ sitemap:
 * [Wiki de l'AEDIROUM](https://wiki.aediroum.ca/index.php?title=Accueil)
 * [Planificateur Académique](https://www-ens.iro.umontreal.ca/~miloszro/conseiller_pedagogique/planner/117510.html)
 * Plans du pavillon André-Aisenstadt: [1ᵉʳ étage](https://www.iro.umontreal.ca/~robitail/1e-etage.html), [2ᵉ étage](https://www.iro.umontreal.ca/~robitail/2e-etage.html), [3ᵉ étage](https://www.iro.umontreal.ca/~robitail/3e-etage.html)
-* [Guide du premier cycle](https://www-labs.iro.umontreal.ca/~boyer/etudes/guide1cy_fldr/)
+* [Guide du premier cycle](https://www.iro.umontreal.ca/~resp1cyc/guide1cy_fldr/)
 
 #### Clubs de l'UdeM
 
 L'horaire des clubs se trouve devant le local 3192 au Pavillon André-Aisenstadt
 
-* [Club de Sécurité Informatique (RHUM)](//discord.gg/Tdunyeg)
-* [Club FinTech](//fb.com/groups/143067566363926)
-* [Club de Programmation Compétitive (Calculum)](https://calculum.aediroum.ca/)
-* [Club de Robotique (Dirobots)](https://dirobots.github.io/)
-* Club de Recherche Opérationnelle (Crodirodiroum)
-* [Club de Machine Learning (UdeM AI)](https://udemai.github.io/)
+* **[CALCULUM](https://calculum.aediroum.ca/)** : Algorithmique et programmation compétitive
+* **CITUM** : Informatique théorique
+* **DIROBOTS** : Robotique
+* **GRAAL** : Architecture, matériel et logique
+* **GULLUM** : Logiciels libres
+* **[RADAR](https://radar.aediroum.ca/)** : Radioamateur, astronautique et radio astronomie
+* **[RFIUM](https://linktr.ee/rfium)** : Femmes en informatique
+* **RHUM** : Sécurité informatique
+* **[UdeM AI](https://udemai.github.io/)** : Intelligence artificielle
 
 <!--* [DIRO Bash](//dirobash.tolarian.com)-->
 <!--* [Site web de stages](//stages.dgtic.umontreal.ca/etudiants) -->

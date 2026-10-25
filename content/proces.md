@@ -1,6 +1,7 @@
 ---
 title: Procès verbaux
 layout: proces
+type: page
 menu:
   main:
     parent: documents
