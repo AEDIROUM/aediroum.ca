@@ -54,7 +54,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          sudo apt-get install -y ghostscript
+          sudo apt update && sudo apt-get install -y ghostscript
           make build
           hugo \
             --minify \
