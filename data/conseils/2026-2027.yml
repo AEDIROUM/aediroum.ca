@@ -14,11 +14,11 @@ conseil:
         id:
         courriel: nathan.coquerel@umontreal.ca
   - Vice-présidence externe:
-      - nom: Cal Gutierrez
+    - nom: Cal Gutierrez
         id:
         courriel: cal.gutierrez@umontreal.ca
   - Adjoint(e) à la vice-présidence externe:
-      - nom: Carlos Vanegas
+    - nom: Carlos Vanegas
         id:
         courriel: carlos-ariel.vanegas@umontreal.ca
   - Secrétariat:
