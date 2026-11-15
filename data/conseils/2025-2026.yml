@@ -95,11 +95,11 @@ conseil:
         id:
         courriel: maxime.mitchelson@umontreal.ca
   - Responsable des sports:
-    - nom: François Frigon
+      - nom: François Frigon
         id:
         courriel: francois.frigon@umontreal.ca
   - Responsable des jeux:
-    - nom: Emulie Chhor
+      - nom: Emulie Chhor
         id:
         courriel: emulie.chhor@umontreal.ca
   - Responsable de la marchandise:
