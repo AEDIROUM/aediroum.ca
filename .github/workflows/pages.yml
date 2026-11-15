@@ -5,6 +5,10 @@ on:
   push:
     branches: ["master"]
 
+  # Runs on pull requests targeting the default branch
+  pull_request:
+    branches: ["master"]
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -66,6 +70,7 @@ jobs:
 
   # Deployment job
   deploy:
+    if: not github.event.pull_request
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
