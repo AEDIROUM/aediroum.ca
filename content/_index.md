@@ -32,3 +32,5 @@ Elle représente les personnes étudiantes des programmes suivants au [Départem
 <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" version="1.1" class="icon" height="16"><path d="M15.996 15.457l16.004-7.539v-3.918h-32v3.906zM16.004 19.879l-16.004-7.559v15.68h32v-15.656z"></path></svg> **Courriel:** [aediroum@iro.umontreal.ca](mailto:aediroum@iro.umontreal.ca)
 
 THIS IS A TEST
+
+More tests
