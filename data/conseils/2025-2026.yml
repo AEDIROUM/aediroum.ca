@@ -1,0 +1,116 @@
+---
+annee: 2025-2026
+conseil:
+  - Présidence:
+      - nom: Félix Beaudoin
+        id:
+        courriel: felix.beaudoin.1@umontreal.ca
+  - Vice-présidence aux communications:
+      - nom: Simon Mounier
+        id:
+        courriel: simon.mounier@umontreal.ca
+  - Adjoint(e) à la vice-présidence aux communications:
+      - nom: Julien-Charles Cyr
+        id:
+        courriel: julien-charles.cyr@umontreal.ca
+  - Vice-présidence externe:
+      - nom: Arthure Maffre
+        id:
+        courriel: arthur.maffre@umontreal.ca
+  - Adjoint(e) à la vice-présidence externe:
+      - nom: Samy El Kassimi
+        id:
+        courriel: samy.el.kassimi@umontreal.ca
+  - Secrétariat:
+      - nom: Théodore Le Roy
+        id:
+        courriel: theodore.le.roy@umontreal.ca
+  - Trésorerie:
+      - nom: Florencia Jhon Locht
+        id:
+        courriel: florencia.jhon.locht@umontreal.ca
+  - Adjoint(e) au secrétariat:
+      - nom: Oscar Parent
+        id:
+        courriel: oscar.parent@umontreal.ca
+  - Coordination aux affaires académiques de premier cycle:
+      - nom: Cal Gutierrez
+        id:
+        courriel: cal.gutierrez@umontreal.ca
+  - Coordination aux affaires académiques de cycles supérieurs:
+      - nom: Rabbi Mvitu Binda
+        id:
+        courriel: rabbi.binda.mvitu@umontreal.ca
+  - Adjoint(e) à la coordination aux affaires académiques:
+      - nom: Carlos Vanegas
+        id:
+        courriel: carlos-ariel.vanegas@umontreal.ca
+  - Responsable des relations avec Mila:
+      - nom: Oussama Boussif
+        id:
+        courriel: oussama.boussif@umontreal.ca
+  - Responsable des relations avec les programmes de mathématiques:
+      - nom: Antony Leclerc
+        id:
+        courriel: antony.leclerc@umontreal.ca
+  - Représentation des femmes en informatique:
+      - nom: Damia Boudjema
+        id:
+        courriel: damia.boudjema@umontreal.ca
+  - Représentation des personnes étudiantes salariées:
+      - nom: Julien-Charles Cyr
+        id:
+        courriel: julien-charles.cyr@umontreal.ca
+  - Représentation des personnes étudiantes internationales:
+      - nom: Pablo Hidalgo
+        id:
+        courriel: pablo.hidalgo.etienne@umontreal.ca
+  - Coordination à la vie étudiante:
+      - nom: Chris-Noah Adjoka
+        id:
+        courriel: chris-noah.adjoka@umontreal.ca
+  - adjoint(e) à la coordination à la vie étudiante:
+      - nom: Gabriel Desa
+        id:
+        courriel: gabriel.desa@umontreal.ca
+      - nom: Viviane Binet
+        id:
+        courriel: viviane.binet@umontreal.ca
+  - Représentation du café Tore et Fraction:
+      - nom: Étienne Poliquin Daher
+        id:
+        courriel: etienne.poliquin.daher@umontreal.ca
+      - nom: Irène
+        id:
+        courriel:
+      - nom: Pablo Hidalgo
+        id:
+        courriel: pablo.hidalgo.etienne@umontreal.ca
+  - Responsable des locaux:
+      - nom: Pablo Hidalgo
+        id:
+        courriel: pablo.hidalgo.etienne@umontreal.ca
+  - Responsable des compétitions:
+      - nom: Maxime Mitchelson
+        id:
+        courriel: maxime.mitchelson@umontreal.ca
+  - Responsable des sports:
+    - nom: François Frigon
+        id:
+        courriel: francois.frigon@umontreal.ca
+  - Responsable des jeux:
+    - nom: Emulie Chhor
+        id:
+        courriel: emulie.chhor@umontreal.ca
+  - Responsable de la marchandise:
+      - nom: Cassandre Hamel
+        id:
+        courriel: cassandre.hamel.1@umontreal.ca
+  - Responsable des activités pour les cycles supérieurs:
+      - nom: Cassandre Hamel
+        id:
+        courriel: cassandre.hamel.1@umontreal.ca
+  - Responsable des activités pour les personnes finissantes:
+      - nom: Samuel Ducharme
+        id:
+        courriel: samuel.ducharme@umontreal.ca
